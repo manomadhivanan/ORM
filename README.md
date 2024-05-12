@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 18/03/2024
+## Date: 13/03/2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Railway database using Object Relational Mapping(ORM).
